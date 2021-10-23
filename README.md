@@ -7,13 +7,6 @@ How to protect your privacy and still use software that openly steal your privat
 1. Create a private area on my phone, and public area.
 2. Keep my private data on the private side, only allow application that respect that privacy. 
 
-## The Plan
-1. Use as many existing open source apps as possible.
-2. Create easy to use intructions.
-3. Give enough background information.
-4. Fake service when using apps in the secure environment.
-5. Extra fake data when using apps in the secure environemnt.
-
 
 ## Idea 1. Phone Containers
 These are used by business to secure sensitive data on phones. You can control what inside the 'container'. Can these containers be used to cage malicious applications. --- Investigation
